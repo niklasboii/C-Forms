@@ -1,0 +1,17 @@
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\bin\Debug\net6.0-windows\Tehtävä 7.exe
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\bin\Debug\net6.0-windows\Tehtävä 7.deps.json
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\bin\Debug\net6.0-windows\Tehtävä 7.runtimeconfig.json
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\bin\Debug\net6.0-windows\Tehtävä 7.dll
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\bin\Debug\net6.0-windows\ref\Tehtävä 7.dll
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\bin\Debug\net6.0-windows\Tehtävä 7.pdb
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä 7.csproj.AssemblyReference.cache
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä_7.KustannusForm.resources
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä 7.csproj.GenerateResource.cache
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä 7.AssemblyInfoInputs.cache
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä 7.AssemblyInfo.cs
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä 7.csproj.CoreCompileInputs.cache
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä 7.dll
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\ref\Tehtävä 7.dll
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä 7.pdb
+C:\Users\KKTI21COhjelmoija\source\repos\Tehtävä 7\Tehtävä 7\obj\Debug\net6.0-windows\Tehtävä 7.genruntimeconfig.cache
