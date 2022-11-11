@@ -1,0 +1,17 @@
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\bin\Debug\net6.0-windows\2 Harjoitus.exe
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\bin\Debug\net6.0-windows\2 Harjoitus.deps.json
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\bin\Debug\net6.0-windows\2 Harjoitus.runtimeconfig.json
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\bin\Debug\net6.0-windows\2 Harjoitus.dll
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\bin\Debug\net6.0-windows\ref\2 Harjoitus.dll
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\bin\Debug\net6.0-windows\2 Harjoitus.pdb
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\2 Harjoitus.csproj.AssemblyReference.cache
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\_2_Harjoitus.Form1.resources
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\2 Harjoitus.csproj.GenerateResource.cache
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\2 Harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\2 Harjoitus.AssemblyInfoInputs.cache
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\2 Harjoitus.AssemblyInfo.cs
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\2 Harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\2 Harjoitus.dll
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\ref\2 Harjoitus.dll
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\2 Harjoitus.pdb
+C:\Users\KKTI21COhjelmoija\source\repos\2 Harjoitus\2 Harjoitus\obj\Debug\net6.0-windows\2 Harjoitus.genruntimeconfig.cache
