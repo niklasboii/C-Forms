@@ -1,0 +1,17 @@
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\bin\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.exe
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\bin\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.deps.json
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\bin\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.runtimeconfig.json
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\bin\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.dll
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\bin\Debug\net6.0-windows\ref\4. Harjoitus – iän laskeminen.dll
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\bin\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.pdb
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.csproj.AssemblyReference.cache
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\_4._Harjoitus___iän_laskeminen.IkaForm.resources
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.csproj.GenerateResource.cache
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.AssemblyInfoInputs.cache
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.AssemblyInfo.cs
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.csproj.CoreCompileInputs.cache
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.dll
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\ref\4. Harjoitus – iän laskeminen.dll
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.pdb
+C:\Users\KKTI21COhjelmoija\source\repos\4. Harjoitus – iän laskeminen\4. Harjoitus – iän laskeminen\obj\Debug\net6.0-windows\4. Harjoitus – iän laskeminen.genruntimeconfig.cache
